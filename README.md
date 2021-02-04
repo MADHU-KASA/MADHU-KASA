@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  git and github
 - 👯 I’m looking to collaborate on top technology
 - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
+-
 - 📫 How to reach me: madhukasa27@gmail.com
 - 😄 Pronouns:she
 - FUN FACT; hyperactive😛
